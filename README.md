@@ -37,13 +37,15 @@
 ![image](https://github.com/MUTTHU10/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/Screenshot%202026-03-16%20125841.png?raw=true)
 
 ## UV Curing of 3D printed part
+![image](https://github.com/MUTTHU10/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/Screenshot%202026-03-16%20125913.png?raw=true)
 
 ## Heat Treatment of 3D printed part
 
-## Output:
 
-### Name:
-### Register Number:
+
+
+### Name:MUTTHU M
+### Register Number:212225040269
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
