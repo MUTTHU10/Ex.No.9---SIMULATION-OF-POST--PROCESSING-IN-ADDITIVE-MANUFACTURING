@@ -40,7 +40,7 @@
 ![image](https://github.com/MUTTHU10/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/Screenshot%202026-03-16%20125913.png?raw=true)
 
 ## Heat Treatment of 3D printed part
-
+![image](https://github.com/MUTTHU10/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/Screenshot%202026-03-16%20130002.png?raw=true)
 
 
 
